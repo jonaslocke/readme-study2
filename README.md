@@ -38,12 +38,10 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 
 -----------
-## Table of Contents
-
-[a relative link](docs/Best%20Practices/Code%20Reviews/Intro.md)
+# Table of Contents
 
 
-### Best Practices
+## Best Practices
 - [Code Reviews](docs/Best%20Practices/Code%20Reviews/Intro.md)
 - [JIRA](docs/Best%20Practices/JIRA/Intro.md)
 - [Redux Toolkit](docs/Best%20Practices/Redux%20Toolkit/Intro.md)
@@ -51,27 +49,27 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 - [Unit Tests - Jest](docs/Best%20Practices/Unit%20Tests%20-%20Jest/Intro.md)
 - [Using Nx](docs/Best%20Practices/Using%20Nx/Intro.md)
 
-### Development Best Practices
+## Development Best Practices
 - [Coding Best Practices](docs/Development-Best-Practices/Coding-Best-Practices.md)
 - [Performance Optimization](docs/Development-Best-Practices/Performance-Optimization.md)
 
-### IEX
+## IEX
 - [Introduction](docs/IEX/intro.md)
 - [project-structure](docs/IEX/project-structure.md)
 
-### Technical-Document
+## Technical-Document
 - [HIX-174068](docs/Technical-Document/24.3/HIX-174068.md)
 - [HIX-174077](docs/Technical-Document/24.3/HIX-174077.md)
 - [HIX-174204](docs/Technical-Document/24.3/HIX-174204.md)
 
-### Tools
+## Tools
 - [Charting Libraries](docs/Tools/Charting%20Libraries/Introduction.md)
 - [NPM-Registry-Proxy](docs/Tools/NPM-Registry-Proxy/Intro.md)
 
-### ms-telex-ui
+## ms-telex-ui
 - [Overview](docs/ms-telex-ui/24.3/Overview.md)
 
-#### Components
+### Components
 - [Adhoc Notices](docs/ms-telex-ui/24.3/Components/AdhocNotices.md)
 - [Failed Table](docs/ms-telex-ui/24.3/Components/FailedTable.md)
 - [Notice Full Summary](docs/ms-telex-ui/24.3/Components/NoticeFullSummary.md)
@@ -80,7 +78,7 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 - [Search Filter](docs/ms-telex-ui/24.3/Components/SearchFilter.md)
 - [Widget](docs/ms-telex-ui/24.3/Components/Widget.md)
 
-#### HIX
+### HIX
 - [HIX-174231](docs/ms-telex-ui/24.3/HIX/HIX-174231.md)
 - [HIX-174237](docs/ms-telex-ui/24.3/HIX/HIX-174237.md)
 - [HIX-174239](docs/ms-telex-ui/24.3/HIX/HIX-174239.md)
