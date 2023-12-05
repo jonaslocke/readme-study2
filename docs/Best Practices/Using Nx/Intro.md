@@ -1,3 +1,5 @@
+# NX Tooling and build - Best practices
+
 NX is a powerful build and development tool for monorepo-style projects, commonly used with Angular applications. Here are 10 best practices for NX build tooling:
 
 - Organize Your Codebase with Monorepo Structure:
