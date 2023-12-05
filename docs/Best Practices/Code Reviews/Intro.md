@@ -1,4 +1,4 @@
-### Code Reviews
+# Code Reviews
 
 The communication guidelines for code reviews can be articulated as follows:
 
