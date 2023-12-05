@@ -44,12 +44,12 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 
 ### Best Practices
-[Code Reviews](docs/Best%20Practices/Code%20Reviews/intro.md)
-[JIRA](docs/Best%20Practices/JIRA/intro.md)
-[Redux Toolkit](docs/Best%20Practices/Redux%20Toolkit/intro.md)
-[Typescript](docs/Best%20Practices/Typescript/intro.md)
-[Unit Tests - Jest](docs/Best%20Practices/Unit%20Tests%20-%20Jest/intro.md)
-[Using Nx](docs/Best%20Practices/Using%20Nx/intro.md)
+- [Code Reviews](docs/Best%20Practices/Code%20Reviews/Intro.md)
+- [JIRA](docs/Best%20Practices/JIRA/Intro.md)
+- [Redux Toolkit](docs/Best%20Practices/Redux%20Toolkit/Intro.md)
+- [Typescript](docs/Best%20Practices/Typescript/Intro.md)
+- [Unit Tests - Jest](docs/Best%20Practices/Unit%20Tests%20-%20Jest/Intro.md)
+- [Using Nx](docs/Best%20Practices/Using%20Nx/Intro.md)
 ### Development-Best-Practices
 ### IEX
 ### Technical-Document
