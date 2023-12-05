@@ -40,4 +40,4 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 -----------
 ### Table of Contents
 
-[a relative link](other_file.md)
+[a relative link](docs/Best%20Practices/Code%20Reviews/Intro.md)
