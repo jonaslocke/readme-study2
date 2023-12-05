@@ -38,7 +38,7 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 
 -----------
-### Table of Contents
+## Table of Contents
 
 [a relative link](docs/Best%20Practices/Code%20Reviews/Intro.md)
 
@@ -50,7 +50,9 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 - [Typescript](docs/Best%20Practices/Typescript/Intro.md)
 - [Unit Tests - Jest](docs/Best%20Practices/Unit%20Tests%20-%20Jest/Intro.md)
 - [Using Nx](docs/Best%20Practices/Using%20Nx/Intro.md)
-### Development-Best-Practices
+### Development Best Practices
+- [Coding-Best-Practices](docs/Development-Best-Practices/Coding-Best-Practices.md)
+- [Performance-Optimization](docs/Development-Best-Practices/Performance-Optimization.md)
 ### IEX
 ### Technical-Document
 ### Tools
