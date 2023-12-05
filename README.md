@@ -40,4 +40,18 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 -----------
 ### Table of Contents
 
-[a relative link](docs/Best%20Practices/Code%20Reviews/intro.md)
+[a relative link](docs/Best%20Practices/Code%20Reviews/Intro.md)
+
+
+### Best Practices
+[Code Reviews](docs/Best%20Practices/Code%20Reviews)
+[JIRA](docs/Best%20Practices/JIRA)
+[Redux Toolkit](docs/Best%20Practices/Redux%20Toolkit)
+[Typescript](docs/Best%20Practices/Typescript)
+[Unit Tests - Jest](docs/Best%20Practices/Unit%20Tests%20-%20Jest)
+[Using Nx](docs/Best%20Practices/Using%20Nx)
+### Development-Best-Practices
+### IEX
+### Technical-Document
+### Tools
+### ms-telex-ui
