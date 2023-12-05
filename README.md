@@ -67,22 +67,22 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 - [NPM-Registry-Proxy](docs/Tools/NPM-Registry-Proxy/Intro.md)
 
 ## ms-telex-ui
-- [Overview](docs/ms-telex-ui/24.3/Overview.md)
+- [Overview](docs/24.3/ms-telex-ui/Overview.md)
 
 ### Components
-- [Adhoc Notices](docs/ms-telex-ui/24.3/Components/AdhocNotices.md)
-- [Failed Table](docs/ms-telex-ui/24.3/Components/FailedTable.md)
-- [Notice Full Summary](docs/ms-telex-ui/24.3/Components/NoticeFullSummary.md)
-- [Notices Summary](docs/ms-telex-ui/24.3/Components/NoticesSummary.md)
-- [Pane Container](docs/ms-telex-ui/24.3/Components/PaneContainer.md)
-- [Search Filter](docs/ms-telex-ui/24.3/Components/SearchFilter.md)
-- [Widget](docs/ms-telex-ui/24.3/Components/Widget.md)
+- [Adhoc Notices](docs/24.3/ms-telex-ui/Components/AdhocNotices.md)
+- [Failed Table](docs/24.3/ms-telex-ui/Components/FailedTable.md)
+- [Notice Full Summary](docs/24.3/ms-telex-ui/Components/NoticeFullSummary.md)
+- [Notices Summary](docs/24.3/ms-telex-ui/Components/NoticesSummary.md)
+- [Pane Container](docs/24.3/ms-telex-ui/Components/PaneContainer.md)
+- [Search Filter](docs/24.3/ms-telex-ui/Components/SearchFilter.md)
+- [Widget](docs/24.3/ms-telex-ui/Components/Widget.md)
 
 ### HIX
-- [HIX-174231](docs/ms-telex-ui/24.3/HIX/HIX-174231.md)
-- [HIX-174237](docs/ms-telex-ui/24.3/HIX/HIX-174237.md)
-- [HIX-174239](docs/ms-telex-ui/24.3/HIX/HIX-174239.md)
-- [HIX-174244](docs/ms-telex-ui/24.3/HIX/HIX-174244.md)
-- [HIX-174248](docs/ms-telex-ui/24.3/HIX/HIX-174248.md)
-- [HIX-174250](docs/ms-telex-ui/24.3/HIX/HIX-174250.md)
-- [HIX-174252](docs/ms-telex-ui/24.3/HIX/HIX-174252.md)
+- [HIX-174231](docs/24.3/ms-telex-ui/HIX/HIX-174231.md)
+- [HIX-174237](docs/24.3/ms-telex-ui/HIX/HIX-174237.md)
+- [HIX-174239](docs/24.3/ms-telex-ui/HIX/HIX-174239.md)
+- [HIX-174244](docs/24.3/ms-telex-ui/HIX/HIX-174244.md)
+- [HIX-174248](docs/24.3/ms-telex-ui/HIX/HIX-174248.md)
+- [HIX-174250](docs/24.3/ms-telex-ui/HIX/HIX-174250.md)
+- [HIX-174252](docs/24.3/ms-telex-ui/HIX/HIX-174252.md)
