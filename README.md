@@ -61,24 +61,10 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 ## 24.3
 
+- [QR code mobile upload](docs/24.3/Mobile-Upload-Using-QR-Code/HIX-174204.md)
+- [Telex](docs/24.3/ms-telex-ui/Overview.md)
 - [HIX-174068](docs/24.3/Tickets/HIX-174068.md)
 - [HIX-174077](docs/24.3/Tickets/HIX-174077.md)
-- [HIX-174204](docs/24.3/Mobile-Upload-Using-QR-Code/HIX-174204.md)
-- [Overview](docs/24.3/ms-telex-ui/Overview.md)
-- [Adhoc Notices](docs/24.3/ms-telex-ui/Components/AdhocNotices.md)
-- [Failed Table](docs/24.3/ms-telex-ui/Components/FailedTable.md)
-- [Notice Full Summary](docs/24.3/ms-telex-ui/Components/NoticeFullSummary.md)
-- [Notices Summary](docs/24.3/ms-telex-ui/Components/NoticesSummary.md)
-- [Pane Container](docs/24.3/ms-telex-ui/Components/PaneContainer.md)
-- [Search Filter](docs/24.3/ms-telex-ui/Components/SearchFilter.md)
-- [Widget](docs/24.3/ms-telex-ui/Components/Widget.md)
-- [HIX-174231](docs/24.3/ms-telex-ui/HIX/HIX-174231.md)
-- [HIX-174237](docs/24.3/ms-telex-ui/HIX/HIX-174237.md)
-- [HIX-174239](docs/24.3/ms-telex-ui/HIX/HIX-174239.md)
-- [HIX-174244](docs/24.3/ms-telex-ui/HIX/HIX-174244.md)
-- [HIX-174248](docs/24.3/ms-telex-ui/HIX/HIX-174248.md)
-- [HIX-174250](docs/24.3/ms-telex-ui/HIX/HIX-174250.md)
-- [HIX-174252](docs/24.3/ms-telex-ui/HIX/HIX-174252.md)
 
 ## Tools
 
