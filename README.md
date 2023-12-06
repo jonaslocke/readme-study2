@@ -63,6 +63,7 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 - [QR code mobile upload](docs/24.3/Mobile-Upload-Using-QR-Code/HIX-174204.md)
 - [Telex](docs/24.3/ms-telex-ui/Overview.md)
+Inside Tickets folder we have 2 *.md show both of them or just one?
 - [HIX-174068](docs/24.3/Tickets/HIX-174068.md)
 - [HIX-174077](docs/24.3/Tickets/HIX-174077.md)
 
